@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ingredient Classification Results</title>
+</head>
+<body>
+    <h1>Ingredient Classification Results</h1>
+    <div>
+        <img src="{{ url_for('static', filename='pie_chart.png') }}" alt="Pie Chart">
+    </div>
+    <table border="1">
+        <tr>
+            <th>Ingredient</th>
+            <th>Natural/Artificial</th>
+            <th>Processed/Unprocessed</th>
+        </tr>
+        {% for item in ingredients_info %}
+        <tr>
+            <td>{{ item.ingredient }}</td>
+            <td>{{ item.classification.natural }}</td>
+            <td>{{ item.classification.processed }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>

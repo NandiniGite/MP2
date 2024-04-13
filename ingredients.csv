@@ -1,0 +1,343 @@
+,Ingredients Name,Natural/Artificial,Processed/Unprocessed
+Category 1,corn flour,0,0
+,wheat flour,0,0
+,cocoa solids,0,0
+,Milk solids,0,0
+,edible palm oil,0,0
+,Bengal gram dal,0,0
+,Peas,0,0
+,Ragi,0,0
+,Iodized salt,0,1
+,Refined sugar,0,1
+,Malt Extract,0,1
+,colour (INS 150d),1,1
+,Antioxidant (INS 320),1,1
+,Hydrogenated vegetable fat,0,1
+,stabilizer (INS 170),1,1
+,Emulsifier (INS 322),1,1
+category 2,Refined Wheat Flour (Maida),0,1
+,Water,0,0
+,Sugar,0,1
+,Yeast,0,0
+,lodized Salt,0,1
+,"Edible Vegetable Oil (Soyabean, Palmolein)",0,1
+,Wheat Gluten,0,
+,Soya Flour,0,0
+,Preservative (282),1,1
+,"Emulsifiers [471,481 (i)]",1,1
+,Acidity Regulator (260),1,1
+,Flour Treatment Agent (1100),1,1
+,Antioxidant (300).,1,1
+,EDIBLE VEGETABLE OILS (PALM),0,1
+,EDIBLE COMMON SALT,0,1
+,FLOUR,0,1
+,WHEAT GLUTEN,0,0
+,"EMULS 472e, 481 (1)",0,1
+,IMPROVERS[170(1) 510],1,1
+,,,
+,,,
+,REFINED PALM OIL,0,1
+,"IMPROVER [BLEND OF ANTIOXIDANT 300, ANTICAKING AGENT 170(i) & FLOUR IMPROVER 1100]",1,1
+,SOYA FLOUR,0,0
+,GLUTEN,0,0
+,"PRESERVATIVES (280, 281 & 200]",1,1
+,"EMULSIFIERS [481(i), 471 & 472e]",1,1
+,ANTICIDANT [300],1,1
+,,,
+,Refined Soyabean Oil,0,1
+,Refined Palmolein oil,0,1
+,Soya Flour,0,
+,Class II Preservatives (E282),1,1
+,Permitted Emulsifier (E481()),1,1
+,Acidity Regulator (E260),1,1
+,Antioxidant(E300),1,1
+,,,
+,WHOLE WHEAT FLOUR(ATTA),0,0
+,NATURAL FOOD COLOUR (150),0,1
+category 3,Cocoa solids,0,0
+,Sugar,0,1
+,Hydrogenated vegetable fats,0,1
+,Milk solids,0,0
+,Wheat flour (Maida),0,1
+,Emulsifier (Soya lecithin),1,1
+,Leavening agent ,1,1
+,COCOA BUTTER,0,0
+,Milk solids,0,0
+,Edible vegetable oil (Palm oil),0,1
+,"EMULSIFIERS (E322, E476).",1,1
+category 4,Rice Flakes,0,0
+,Peanut,0,0
+,Bengal Gram ,0,0
+,Palmolien Oil,0,1
+,Sugar,0,1
+,Edible Common Salt,0,1
+,Black Salt,0,0
+,Maize Starch,0,0
+,Acidity Regulator(INS 330 & INS 260),1,1
+,Anticaking Agent (INS 551),1,1
+,Antioxidant (INS 307b),1,1
+,Refined Wheat Flour,0,1
+,Edible Vegetable Oil (Palmolein Oil),0,1
+,Hydrogenated Vegetable Oil,0,1
+,Sesame Seeds,0,0
+,Red Chilli Powder,0,0
+,Edible Common salt,0,1
+,Cumin Seed,0,0
+,,,
+,Turmeric Powder,0,0
+,Asafoetida,0,0
+,Maltodextrin,0,1
+,Acidity Regulator (INS 330).,1,1
+,Edible Vegetable Oil (Mustard Oil),0,0
+,Spices & Condiments,0,0
+,Acidity Regulator (INS 260),1,1
+,Sodium Benzoate (INS 211).,1,1
+,Leavening Agent (INS 500 {i}),1,1
+,Anticaking Agent (INS 551),1,1
+,Flavour Enhancers (INS 627&INS 631).,1,1
+,SYNTHETIC FOOD COLOUR (INS 133),1,1
+category 5,Refined Wheat Flour,0,1
+,Sugar,0,1
+,Edible Vegetable Fat,0,1
+,Palmolein,0,1
+,Invert Syrup,0,1
+,Cocoa Solids,0,0
+,"Leavening agents ((5000), 503))",1,1
+,Emulsifier (322),1,1
+,CHOCO CREAM,0,0
+,EDIBLE VEGETABLE OIL,0,1
+,COCOA SOLIDS,0,0
+,EMULSIFIER,1,1
+,"ARTIFICIAL FLAVOURING SUBSTANCES-VANILLA, CHOCOLATE",1,1
+,WHEAT FLOUR,0,0
+,HYDROGENATED VEGETABLE FAT,1,1
+,INVERT SUGAR SYRUP,0,1
+,LIQUID GLUCOSE,0,0
+,"RAISING AGENTS [503 (ii), 500 (ii) )",1,1
+,BUTTER,0,1
+,CHOCO CRÈME,0,0
+,SUGAR,0,1
+,REFINED PALM OIL,0,1
+,REFINED PALMOLEIN,0,1
+,COCOA SOLIDS,0,0
+,ANTIOXIDANT (INS 322(1)),1,1
+,NATURE IDENTICAL FLAVOURING SUBSTANCES CHOCOLATE,0,1
+,ARTIFICIAL FLAVOURING SUBSTANCES ETHYL VANILLIN,1,1
+,WHEAT FLOUR,0,1
+,HYDROGENATED VEGETABLE OIL,0,1
+,SUGAR,0,1
+,INVERT SYRUP,0,1
+,LIQUID GLUCOSE,0,0
+,"RAISING NTS (INS 503(ii), INS 500(ii), INS 450(i)), COCOA SOLIDS (0.7%)",1,1
+,BUTTER,0,0
+,EDIBLE COMMON SALT,0,1
+,"EMULSIFIERS (INS 322(1), INS 471).",1,1
+,"COLOUR(S) (INS 150c, INS 150d)",1,1
+,FLAVOURING SUBSTANCES-CHOCOLATE,1,1
+,ARTIFICIAL FLAVOURING SUBSTANCE VANILLA AND MILK,1,1
+,,,
+,REFINED WHEAT FLOUR,0,1
+,SUGAR,0,1
+,EDIBLE VEGETABLE OIL (PALM),0,1
+,CEREAL PRODUCTS,0,0
+,RAGI FLOUR,0,0
+,OATS,0,0
+,CORN FLAKES,0,0
+,RICE FLOUR,0,0
+,WHEAT BRAN,0,0
+,MILK SOLIDS,0,0
+,"RAISING AGENTS [503(ii),500(ii)]",1,1
+,EDIBLE COMMON SALT,0,1
+,"EMULSIFIERS (322,472e,471)",1,1
+,HONEY,0,0
+,REFINED WHEAT FLOUR (53%),0,1
+,EDIBLE VEGETABLE OIL (PALM),0,1
+,MALTITOL (965),1,1
+,ROLLED OATS,0,0
+,MILK SOLIDS,0,0
+,NATURAL CEREAL FIBRE,0,0
+,ALMOND,0,0
+,MALTODEX- TRIN,0,1
+,"RAISING AGENTS[503(ii),500 (ii),450(1)]",1,1
+,EDIBLE COMMON SALT,0,1
+,"EMULSIFIERS (322,412,472e,471)",1,1
+,DOUGH CONDITIONER (223),1,1
+,SWEETENER (955).,1,1
+,Whole Wheat,0,0
+,Jaggery,0,0
+,Cinnamon,0,0
+,Cold Pressed Coconut Oil,0,0
+,Whole Wheat Flour,0,0
+,Spices,0,0
+,Jaggery,0,0
+,Flax & Sesame Seeds,0,0
+,Rock Salt,0,0
+,Flax & Sesame Seeds,0,0
+,Organic Whole Millets Flour,0,0
+,Organic Whole Wheat Flour,0,0
+,Butter,0,0
+,Organic Jaggery,0,0
+,Dry Fruits powder,0,0
+,Milk,0,0
+,Cinnamon,0,0
+,Rock Salt,0,0
+category 6,Toned Milk Dahi,0,0
+,STABILIZER (E 440),1,1
+,ARTIFICIAL FLAVOUR SUBSTANCES (ROSE),1,1
+,WATER,0,0
+,MANGO PULP,0,0
+,SUGAR,0,1
+,LEMON JUICE CONCENTRATE,0,1
+,IODISED SALT,0,1
+,SPICES AND CONDIMENTS ,0,0
+,FLAVOURING SUBSTANCES,1,1
+,STABILIZER (PECTIN) ,1,1
+,ACIDITY REGULATOR (CITRIC ACID),1,1
+,WATER,0,0
+,SUGAR,0,1
+,ORANGE JUICE,0,0
+," ACIDITY REGULATORS (330, 331())",1,1
+,ANTIOXIDANT,1,1
+,"SYNTHETIC FOOD COLOURS (110, 102)",1,1
+,ADDED ORANGE FLAVOURS ,1,1
+,ARTIFICIAL FLAVOURIN SUBSTANCES,1,1
+,WATER,0,0
+,MIXED FRUIT,0,0
+,APPLE ACIDITY REGULATOR 330,1,1
+,PRESERVATIVE-211,1,1
+,SYNTHETIC FOOD COLOUR-124,1,1
+,ADDED FLAVOUR NATURE IDENTICAL FLAVOURING SUBSTANCE,1,1
+,CLASS II PRESERVATIVE,1,1
+,PRESERVATIVE (INS234),1,1
+,CARBONATED WATER,,
+,"ACIDITY REGULATORS (338, 331, 330)",1,1
+,"SWEETENERS( 951, 950)",1,1
+,PRESERVATIVE (211),1,1
+,CAFFEINE,0,0
+,NATURAL COLOUR (150d),1,1
+,ADDED FLAVOUR (NATURAL FLAVOURING SUBSTANCES,1,1
+,Guava Pulp,0,0
+,Sugar,0,1
+,Acidity Regulator (330),1,1
+,Antioxidant (300).,1,1
+,NATURAL COLOUR (160a (i)),1,1
+,Water,0,0
+,Orange Juice Concentrate,0,1
+,Sugar,0,1
+,Acidity Regulator (INS 330),1,1
+,Salt,0,0
+,Antioxidant (INS 300).,1,1
+,WATER,0,0
+,SUGAR,0,1
+,ORANGE JUICE,0,0
+,"ACIDITY REGULATORS (330, 331())",1,1
+,ANTIOXIDANT,1,1
+,SYNTHETIC FOOD COLOURS,1,1
+,Double Toned Milk,0,0
+,Sugar,0,1
+,SYNTHETIC FOOD COLOURS (INS 102 & 133),1,1
+,FLAVOURING SUBSTANCES,1,1
+,ARTIFICIAL SWEETENERS,1,1
+,Acidity regulator (339(1)),1,1
+,Stabilizer (407),1,1
+,Water,0,0
+,Milk Solids,0,0
+,Sugar,0,1
+,Liquid glucose,0,0
+,"Emulsifier ((471),460())",1,1
+,Cocoa solids,0,0
+,mineral (Calcium carbonate),0,0
+,Edible common Sequestrant (339(1)),1,1
+,"Mineral (Zinc B, Vitamin E (Acetate)",0,0
+,Vitamin A (Ace Vitamin D2 (Ergocalciferol),0,0
+,Vitamin B1 (The chloride hydrochloride),0,0
+,Vitamin B2 (Riboflavin),0,0
+,,,
+,Toned Milk,0,0
+,Milk Solids,0,0
+,Sugar,0,1
+,SYNTHETIC FOOD COLOURS (E102 & E133),1,1
+,ELAICHI FLAVOUR,1,1
+,FLAVOURING SUBSTANCE,1,1
+,,,
+,Sugar,0,1
+,Acidity Regulator (330),1,1
+,,,
+,Tricalcium Phosphate,0,0
+,Ferrous Citrate,0,0
+,Orange Fruit Powder,0,1
+,Vitamins,1,1
+,"Stabilisers (415, 466, 1400),",1,1
+,"Food Colours (171, 110, 102),",1,1
+,Sweetener (960),1,1
+,Edible Salt,0,0
+,SYNTHETIC FOOD COLOURS,1,1
+,ADDED FLAVOUR SUBSTANCES,1,1
+,ADDED ORANGE FLAVOUR,1,1
+,,,
+,SUCROSE,0,1
+,FRUIT JUICE POWDER,0,1
+,FRUIT AND VEGETABLE EXTRACTS,0,1
+,ACIDITY REGULATOR (INS 330),1,1
+,BLACK SALT,0,0
+,COMMON SALT,0,1
+,GLUCOSE,0,0
+,"EMULSIFYING STABILIZING AGENTS (INS 414, INS 331, INS 415)",1,1
+,NATURAL SPICE OILS,0,0
+,NATURAL SPICE EXTRACTS,0,0
+,NATURAL ESSENTIAL OILS,0,0
+,,,
+,,,
+,ANTICAKING AGENT(INS 554),1,1
+,,,
+,Sugar,0,1
+,Acidity Regular (INS-330),1,1
+,Class II Preservative (INS-211),1,1
+,Synthetic Food Colour (INS-122)(INS-124),1,1
+,,,
+,Purified Water,0,0
+,Sugar,0,1
+,Acidity Regulator (INS-330),1,1
+,Artificial flavoring substance.,1,1
+,CLASS II PRESERVATIVE,1,1
+category 7,Refined Wheat flour (Maida),0,1
+,Palm oil,0,1
+,Salt,0,0
+,Wheat gluten,0,0
+,"Acidity regulators (5000), 5010))&170(0))",1,1
+,Thickeners (508 & 412),1,1
+,Humectant (4510),1,1
+,Mixed spices,0,0
+,Noodle powder,0,0
+,Sugar,0,1
+,Edible starch,0,0
+,Palm oil,0,1
+,Thickener (508),1,1
+,,,
+,Acidity regulators (330&500()),1,1
+,Salt,0,0
+,Flavour enhancer (635),1,1
+,,,
+,CONTAINS PERMITTED NATURAL COLOUR,1,1
+,,,
+,Wheat Flour,0,0
+,Refined Palm Oil,0,1
+,Salt,0,0
+,"Potassium Chloride (Gelling Agent, E508)",1,1
+,Wheat Gluten,0,0
+,"Sodium Polyphosphate (Emulsifying Agent, E452(i))",1,1
+,"Potassium Carbonate (Acidity Regulator, E501(i))",1,1
+,"Sodium Hydrogen Carbonate (Raising Agent, E500 (ii))",1,1
+,"Tertiary Butylhydroquinone (Antioxidant, E319)",1,1
+,,,
+,Mixed Spices,0,0
+,Corn Flour,0,0
+,Salt,0,0
+,Sugar,0,1
+,"Soy Sauce Powder (soybean, wheat, salt)",0,1
+,"Dehydrated Vegetables (carrot, parsley)",0,0
+,Flavour Enhancers E627 E631,1,1
+,Anticaking Agent E551,1,1
+,"Citric Acid (Acidifying Agent, E330)",1,1
+,Tomato Powder,0,1
+,Sunflower Oil,0,0
